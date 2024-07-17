@@ -276,7 +276,7 @@ system("pause");
 
 }
 
-//====================DISPLAY THE LIST =================
+//=================DISPLAY THE LIST =================
 void displayList(FILE * fp)
 {   printHead();
     Student s;
