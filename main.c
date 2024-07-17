@@ -9,7 +9,7 @@ void add(FILE * fp); //to add to list
 FILE * del(FILE * fp);//to delete from list
 void modify(FILE * fp);//to modify a record
 void displayList(FILE * fp);//display whole list
-void searchRecord(FILE *fp);//find a particular record
+void searchRecord(FILE *fp);//finds a particular record
 void printChar(char ch,int n);//printing a character ch n times
 void printHead();//printing head line for each screen
 
