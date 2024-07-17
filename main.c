@@ -214,7 +214,7 @@ return fp;
 }
 
 
-//===========MODIFY A RECORD ===========================
+//==========MODIFY A RECORD ===========================
 
 void modify(FILE * fp)
 {
