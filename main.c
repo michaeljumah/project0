@@ -87,7 +87,7 @@ return 1;
 
 }
 
-//----printing character ch at n times ------
+//----printing character ch at n times ---------
 
 void printChar(char ch,int n)
 {
