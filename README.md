@@ -2,5 +2,9 @@
 
 My first school project
 #language
-it is written in cpp about school management system
+it is written in cpp 
+
+#about 
+
+school management system
 
