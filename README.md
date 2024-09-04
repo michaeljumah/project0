@@ -1,10 +1,10 @@
-#project0
+# project0
 
 My first school project
 #language
 it is written in cpp 
 
-#about 
+# about 
 
 School Management System
 
