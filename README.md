@@ -6,5 +6,5 @@ it is written in cpp
 
 #about 
 
-school management system
+School Management System
 
