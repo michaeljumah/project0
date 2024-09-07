@@ -1,7 +1,7 @@
 # project 0
 
 My first school project
-#language
+# language
 it is written in cpp 
 
 # about 
