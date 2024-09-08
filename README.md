@@ -7,3 +7,5 @@ it is written in cpp
 # about 
 
 School Management System
+
+............
