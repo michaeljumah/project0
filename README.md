@@ -14,4 +14,4 @@ School Management System
 
 ........................
 
-hello world
+hello
