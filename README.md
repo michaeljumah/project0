@@ -1,4 +1,4 @@
-........................
+
 # project 0
 
 My first school project
