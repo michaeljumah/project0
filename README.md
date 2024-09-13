@@ -3,7 +3,7 @@
 
 My first school project
 
-.......................
+.................................................
 # language
 it is written in cpp
 
