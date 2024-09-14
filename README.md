@@ -14,4 +14,4 @@ School Management System
 
 .........................
 
-in Kenya
+Made in Kenya
