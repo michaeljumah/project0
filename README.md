@@ -15,3 +15,4 @@ School Management System
 .........................
 
 Made in Kenya
+readme update 
