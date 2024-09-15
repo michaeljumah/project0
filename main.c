@@ -34,6 +34,7 @@ if((fp=fopen("studentInfo.txt","rb+"))==NULL)
 {
     if((fp=fopen("studentInfo.txt","wb+"))==NULL)
        {
+
            printf("can't open file");
            return 0;
        }
