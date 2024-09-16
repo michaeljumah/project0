@@ -12,7 +12,4 @@ it is written in cpp
 
 School Management System
 
-.........................
-
-Made in Kenya
-readme update 
+........................
