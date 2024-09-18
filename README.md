@@ -13,3 +13,6 @@ it is written in cpp
 School Management System
 
 ..................................................
+
+
+t...
