@@ -8,7 +8,7 @@ My first school project
 it is written in cpp
 
 .................................................
-# about 
+# About 
 
 School Management System
 
