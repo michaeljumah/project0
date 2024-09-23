@@ -14,4 +14,4 @@ School Management System
 
 ..................................................
 
-23rd September 
+September 
