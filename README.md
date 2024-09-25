@@ -1,5 +1,5 @@
 
-# ***PROJECT 0****
+# ***PROJECT 0 ****
 
 My first school project
 
