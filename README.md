@@ -14,7 +14,7 @@ School Management System
 
 ..................................................
 
-15th October
+16th October
 
 
 .........
